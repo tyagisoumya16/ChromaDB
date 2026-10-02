@@ -1,0 +1,7 @@
+Artificial Intelligence is the field of building systems that perform tasks that normally require human intelligence.
+Machine Learning is a subset of Artificial Intelligence. Machine Learning systems learn patterns from data.
+Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers.
+Natural Language Processing focuses on enabling computers to process and understand human language.
+Generative AI refers to AI systems capable of generating new content such as text, images, audio, and code.
+Retrieval-Augmented Generation combines information retrieval with generative AI. A retrieval system finds relevant information and an LLM uses that information to generate an answer.
+Vector databases store vector representations of data and allow similarity-based retrieval.
